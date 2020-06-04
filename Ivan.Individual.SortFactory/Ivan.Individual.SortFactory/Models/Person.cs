@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Ivan.Individual.SortFactory.Models
 {
-    public class Person : ModelBase<Person>
+    public class Person : IComparable<Person>
     {
         public int Age { get; set; }
         public string Name { get; set; }
@@ -27,7 +27,7 @@ namespace Ivan.Individual.SortFactory.Models
         }
 
         // CompareTo is the implementation of IComparable
-        public override int CompareTo(Person other)
+        public int CompareTo(Person other)
         {
             if (this.Age > other.Age)
             {
@@ -42,5 +42,7 @@ namespace Ivan.Individual.SortFactory.Models
                 return -1;
             }
         }
+
+ 
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Ivan.Individual.SortFactory
 {
-    interface ISortFactory<T> where T : IComparable<T>
+    public interface ISortFactory<T> where T : IComparable<T>
     {
         SortBase<T> CreateSort();
     }

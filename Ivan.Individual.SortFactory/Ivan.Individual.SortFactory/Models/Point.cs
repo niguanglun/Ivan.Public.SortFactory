@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ivan.Individual.SortFactory.Models
 {
-    public class Point: ModelBase<Point>
+    public class Point: IComparable<Point>
     {
         public int X { get; set; }
         public int Y { get; set; }
@@ -21,7 +21,7 @@ namespace Ivan.Individual.SortFactory.Models
             return $"{X}, {Y}";
         }
 
-        public override int CompareTo(Point other)
+        public int CompareTo(Point other)
         {
             return (Compare(X, other.X) == 0) ? Compare(Y, other.Y): Compare(X, other.X);
         }
