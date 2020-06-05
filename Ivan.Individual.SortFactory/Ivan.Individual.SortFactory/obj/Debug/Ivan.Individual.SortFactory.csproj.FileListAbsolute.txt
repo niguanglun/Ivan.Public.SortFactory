@@ -10,10 +10,8 @@ E:\CodeRepository\Ivan.CSharpCode\Ivan.Individual.SortFactory\Ivan.Individual.So
 E:\CodeRepository\Ivan.CSharpCode\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.csprojAssemblyReference.cache
 E:\CodeRepository\Ivan.CSharpCode\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.exe
 E:\CodeRepository\Ivan.CSharpCode\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.pdb
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\bin\Debug\Ivan.Individual.SortFactory.exe.config
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\bin\Debug\Ivan.Individual.SortFactory.exe
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\bin\Debug\Ivan.Individual.SortFactory.pdb
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.csprojAssemblyReference.cache
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.csproj.CoreCompileInputs.cache
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.exe
-C:\Users\ivzhang\Downloads\Ivan.SortFactory-master\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.pdb
+E:\GitRepository\Ivan.SortFactory\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.exe
+E:\GitRepository\Ivan.SortFactory\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\obj\Debug\Ivan.Individual.SortFactory.pdb
+E:\GitRepository\Ivan.SortFactory\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\bin\Debug\Ivan.Individual.SortFactory.exe.config
+E:\GitRepository\Ivan.SortFactory\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\bin\Debug\Ivan.Individual.SortFactory.exe
+E:\GitRepository\Ivan.SortFactory\Ivan.Individual.SortFactory\Ivan.Individual.SortFactory\bin\Debug\Ivan.Individual.SortFactory.pdb
